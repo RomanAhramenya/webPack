@@ -1,0 +1,8 @@
+@import "~normalize.css";
+.container {
+    color :red;
+    background-image:url("../assets/1.png");
+    background-size: cover;
+    width:500px;
+    height:500px;
+}
